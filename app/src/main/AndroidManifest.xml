@@ -48,6 +48,8 @@
             android:label="@string/company_info"/>
         <activity android:name=".CheckCompanyInfoActivity"
             android:label="@string/company_info"/>
+        <activity android:name=".MeActivity"
+            android:label="我"/>
     </application>
 
 </manifest>
